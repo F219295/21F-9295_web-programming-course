@@ -52,4 +52,15 @@ body {
   button:hover {
     background-color: #45a049;
   }
+
   
+
+
+.container-fluid{
+    background-color: white;
+}
+
+button{
+    border: 2px solid lightskyblue;
+
+}
