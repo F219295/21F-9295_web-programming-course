@@ -22,7 +22,8 @@ body {
   }
   
   .form-fields {
-    display: none;
+    display: flex;
+    flex-direction: column;
   }
   
   label {
